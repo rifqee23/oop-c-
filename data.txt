@@ -1,0 +1,7 @@
+Iti 2257051008 Ilmu Komputer
+Rifq 2257051008 Ilmu Hacking
+Rifq 2257051008 Ilmu Hacking
+Rianto 2257051008 Ilmu Hacking
+
+rifqi 225705 ilkomp
+cd "d:\Study\c++\oop c++\src\" ; if ($?) { g++ latihan.cpp -o latihan } ; if ($?) { .\latihan } rifqi 22
